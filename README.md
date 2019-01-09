@@ -1,5 +1,4 @@
-# In a squeeze
- - Epibiosis may affect the distribution of kelp forests
+# In a squeeze: Epibiosis may affect the distribution of kelp forests
 
 **Data and scripts will appear when the paper is published**
 
